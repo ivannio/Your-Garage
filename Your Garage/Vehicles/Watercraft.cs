@@ -13,7 +13,7 @@ namespace Your_Garage
 
         public void Drive()
         {
-            Console.WriteLine("I am driving my watercraft across the lake");
+            Console.WriteLine("I am driving my watercraft");
         }
 
     }
